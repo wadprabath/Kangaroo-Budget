@@ -1,0 +1,383 @@
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form12.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form13.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form15.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form16.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form17.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form18.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form19.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form20.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form21.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form22.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form23.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form24.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmSpReports.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmAdvfind.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabList.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabListPrint.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmFindVentura.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmGridReport.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationRpt.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationVoucherRpt.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmReceiptCancel.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRefund.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRemark.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRportTime.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmVoucherRecFind.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Log.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.ReceiptNew.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Recipt.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Report.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Test.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TrustInfo.xml
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe.manifest
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.application
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form12.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form13.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form15.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form16.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form17.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form18.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form19.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form20.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form21.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form22.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form23.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form24.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmSpReports.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmAdvfind.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabList.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabListPrint.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmFindVentura.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmGridReport.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationRpt.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationVoucherRpt.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmReceiptCancel.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRefund.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRemark.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRportTime.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmVoucherRecFind.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Log.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.ReceiptNew.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Recipt.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Report.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Test.resources
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TrustInfo.xml
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe.manifest
+D:\System 12 03 2016\Budget System 27 01 2016 Branch\Budget System Without Branded mobile  01072016\Budget System Text Box Changed 24 08 2016\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form12.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form13.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form15.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form16.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form17.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form18.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form19.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form20.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form21.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form22.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form23.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form24.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmSpReports.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmAdvfind.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabList.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabListPrint.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmFindVentura.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmGridReport.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationRpt.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationVoucherRpt.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmReceiptCancel.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRefund.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRemark.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRportTime.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmVoucherRecFind.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Log.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.ReceiptNew.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Recipt.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Report.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Test.resources
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TrustInfo.xml
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Budget System APP\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form12.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form13.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form15.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form16.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form17.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form18.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form19.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form20.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form21.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form22.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form23.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form24.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmSpReports.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmAdvfind.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabList.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabListPrint.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmFindVentura.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmGridReport.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationRpt.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationVoucherRpt.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmReceiptCancel.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRefund.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRemark.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRportTime.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmVoucherRecFind.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Log.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.ReceiptNew.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Recipt.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Report.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Test.resources
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TrustInfo.xml
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\Budget System 4 02 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form12.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form13.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form15.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form16.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form17.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form18.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form19.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form20.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form21.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form22.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form23.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form24.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmSpReports.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmAdvfind.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabList.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabListPrint.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmFindVentura.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmGridReport.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationRpt.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationVoucherRpt.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmReceiptCancel.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRefund.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRemark.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRportTime.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmVoucherRecFind.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Log.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.ReceiptNew.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Recipt.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Report.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Test.resources
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TrustInfo.xml
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\Budget System 4 02 2018\Budget System 15 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\Budget System 4 02 2018\Budget System 17 08 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Budget System APP\Budget System 4 02 2018\Budget System 17 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\Budget System 4 02 2018\Budget System 17 08 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form12.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form13.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form15.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form16.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form17.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form18.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form19.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form20.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form21.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form22.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form23.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form24.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmSpReports.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmAdvfind.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabList.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabListPrint.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmFindVentura.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmGridReport.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationRpt.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationVoucherRpt.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmReceiptCancel.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRefund.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRemark.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRportTime.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmVoucherRecFind.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Log.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.ReceiptNew.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Recipt.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Report.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Test.resources
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TrustInfo.xml
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe.manifest
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.application
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Budget System APP\Bujdget System new from 07 10 2018\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\Budget System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\Budget System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+E:\Budget System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+E:\Budget System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Budget System\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form10.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form11.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form12.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form13.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form15.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form16.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form17.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form18.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form19.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form20.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form21.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form22.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form23.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form24.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmSpReports.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form4.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form6.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form7.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form8.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form9.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmAdvfind.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabList.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmCabListPrint.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmFindVentura.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmGridReport.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationRpt.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmLocationVoucherRpt.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmReceiptCancel.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRefund.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRemark.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmRportTime.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmVoucherRecFind.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Log.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.ReceiptNew.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Recipt.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Report.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Test.resources
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TrustInfo.xml
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe.manifest
+E:\Budget System\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.application
